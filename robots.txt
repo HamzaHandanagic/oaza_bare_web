@@ -1,0 +1,9 @@
+# robots.txt for Oaza Bare
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://oazabare.ba/sitemap.xml
+
+# Crawl-delay (optional, be kind to server)
+Crawl-delay: 10
